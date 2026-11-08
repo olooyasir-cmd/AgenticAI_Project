@@ -58,9 +58,6 @@ Aagentic_AI/
 │
 ├── main.py                 # AI research agent implementation
 ├── app.py                  # Streamlit web application
-├── test_gemini.py          # Gemini API testing
-├── list_models.py          # Available Gemini model listing
-├── .env                    # API credentials
 ├── .gitignore              # Git ignored files
 ├── pyproject.toml           # Project dependencies
 ├── uv.lock                 # Dependency lock file
